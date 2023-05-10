@@ -2,7 +2,7 @@
 
 # Project #1
 https://github.com/hurj1/project1.git
-# Description: Phishing email sending program
+# Description: Phishing email sending program 
 
 # Project #2
 https://github.com/hurj1/project2.git
